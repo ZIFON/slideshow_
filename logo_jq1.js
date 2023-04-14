@@ -9,7 +9,7 @@ $(function() {
 	$('.up').cycle({
 	  fx : 'scrollUp',
 	  speed: 2500,
-	  timeout: 5000,
+	  timeout: 6000,
 	  delay: 5000
 	});
 
@@ -17,7 +17,7 @@ $(function() {
 	  fx : 'scrollDown',
 	  speed: 2300,
 	  timeout: 4500,
-	  delay: 4600
+	  delay: 4620
 	});
 
 	$('.left').cycle({
